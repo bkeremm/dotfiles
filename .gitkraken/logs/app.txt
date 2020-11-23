@@ -1,0 +1,16 @@
+[2020-10-20T10:24:44.245Z] Detecting Git and Git LFS: started
+[2020-10-20T10:24:49.984Z] Did not detect Git
+[2020-10-20T10:24:53.926Z] Did not detect Git LFS
+[2020-10-20T10:27:47.896Z] Detecting Git and Git LFS: started
+[2020-10-20T10:27:50.485Z] Did not detect Git
+[2020-10-20T10:27:54.469Z] Did not detect Git LFS
+[2020-10-20T10:31:00.402Z] Add user profile Kerem: started.
+[2020-10-20T10:31:00.446Z] Add user profile Kerem: finished. gk-log://duration?t=44
+[2020-11-15T20:54:29.859Z] Detecting Git and Git LFS: started
+[2020-11-15T20:54:37.772Z] Detected Git: 2.24.3
+[2020-11-15T20:54:40.944Z] Did not detect Git LFS
+[2020-11-15T20:55:13.390Z] Send usage data to Axosoft: started.
+[2020-11-15T20:55:13.664Z] Send usage data to Axosoft: finished. (Thank you!) gk-log://duration?t=274
+[2020-11-16T04:03:23.069Z] Detecting Git and Git LFS: started
+[2020-11-16T04:03:28.464Z] Detected Git: 2.24.3
+[2020-11-16T04:03:33.440Z] Did not detect Git LFS

@@ -1,0 +1,52 @@
+{
+  "lastUpgradeScriptRun": "v7.4.0",
+  "lastVersion": "7.4.0",
+  "lastReleaseNotesDisplayed": "7.4.0",
+  "appId": "4e8410535e0f09b484f55bfe60eb5829d41324da",
+  "registration": {
+    "email": "kerem.bahcivan@nisantasi.edu.tr",
+    "name": "Kerem Bahçıvan",
+    "status": "activated",
+    "loginType": "github",
+    "date": "2020-10-20T10:25:07.929Z",
+    "EULA": {
+      "version": "1.5.0",
+      "status": "agree_verified"
+    }
+  },
+  "userId": "29f2c717-7516-4961-a96d-54076f9be5ba",
+  "licensedFeatures": [
+    "pro",
+    "timelines:pro",
+    "suite:pro",
+    "boards:pro",
+    "student",
+    "timelines:student",
+    "suite:student",
+    "boards:student"
+  ],
+  "userFeatures": [
+    {
+      "betaFeaturesEnabled": false,
+      "name": "gitkraken"
+    },
+    {
+      "betaFeaturesEnabled": false,
+      "name": "glo"
+    },
+    {
+      "betaFeaturesEnabled": false,
+      "name": "timelines"
+    }
+  ],
+  "keepGitConfigInSyncWithProfile": true,
+  "hasSeenNewUserOnboarding": true,
+  "windowSettings": {
+    "x": 215,
+    "y": 155,
+    "width": 1251,
+    "height": 800,
+    "fullScreen": false,
+    "maximized": false
+  }
+}

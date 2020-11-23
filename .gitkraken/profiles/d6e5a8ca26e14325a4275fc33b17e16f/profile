@@ -1,0 +1,20 @@
+{
+  "tabInfo": {
+    "tabs": [
+      {
+        "id": "dec4780b-7b9a-4a46-8258-5cbcad8b5467",
+        "type": "NEW"
+      },
+      {
+        "id": "9974f240-66d2-4433-a1ae-ac733f4644d3",
+        "type": "RELEASE_NOTES"
+      }
+    ],
+    "selectedTabId": "9974f240-66d2-4433-a1ae-ac733f4644d3"
+  },
+  "externalEditor": "Atom",
+  "profileIcon": "gravatar",
+  "profileName": "Kerem",
+  "userEmail": "kerem@cankod.com",
+  "userName": "Kerem Bahcivan"
+}
